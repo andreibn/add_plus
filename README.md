@@ -13,6 +13,7 @@
 
 - [Управление холдингом, ред. 3.2](https://github.com/Arcius7012/add_plus/tree/release_uh_3.2)
 - [Зарплата и управление персоналом ред. 3.1](https://github.com/Arcius7012/add_plus/tree/release_zup_corp_3.1)
+- [1С:ERP. Управление холдингом ред. 3.2](https://github.com/Arcius7012/add_plus/tree/release_erp_uh_3.2)
 
 ## Краткий гайд как это быстро запустить
 
